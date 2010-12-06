@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3350
+
+Modified http://www.vim.org/scripts/script.php?script_id=259 and incorporated the following.
+
+* Fixed for VIM 7.X
+* Adjusted formatting of date
+* No longer truncate minutes to 00
